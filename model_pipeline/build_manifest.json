@@ -1,0 +1,167 @@
+{
+    "katinka": {
+        "build_date": "2025-12-11 16:52:59",
+        "source_file": "katinka.fbx",
+        "source_mtime": 1765465965.0779004,
+        "config": {
+            "gender": "F",
+            "extra_arm_angle": 0.0
+        },
+        "animations": {
+            "idle": {
+                "file": "M_idle.fbx",
+                "mtime": 1765464420.774699
+            },
+            "walk": {
+                "file": "M_walk.fbx",
+                "mtime": 1765463335.128953
+            },
+            "run": {
+                "file": "M_run.fbx",
+                "mtime": 1765463030.3429487
+            },
+            "jump_up": {
+                "file": "M_jump_up.fbx",
+                "mtime": 1765464631.2106607
+            },
+            "falling_idle": {
+                "file": "M_falling_idle.fbx",
+                "mtime": 1765464658.6082702
+            },
+            "landing": {
+                "file": "M_falling_to_idle.fbx",
+                "mtime": 1765464696.045465
+            },
+            "walk_backwards": {
+                "file": "M_walk_backwards.fbx",
+                "mtime": 1765463397.1209168
+            },
+            "strafe_left": {
+                "file": "M_strafe_left.fbx",
+                "mtime": 1765464749.055851
+            },
+            "strafe_right": {
+                "file": "M_strafe_right.fbx",
+                "mtime": 1765464774.1960833
+            },
+            "glide": {
+                "file": "M_glide.fbx",
+                "mtime": 1765464854.7610402
+            },
+            "cast": {
+                "file": "M_cast.fbx",
+                "mtime": 1765463564.904601
+            }
+        }
+    },
+    "leib": {
+        "build_date": "2025-12-11 16:54:07",
+        "source_file": "leib.fbx",
+        "source_mtime": 1765456061.1603155,
+        "config": {
+            "gender": "M",
+            "extra_arm_angle": 0.0
+        },
+        "animations": {
+            "idle": {
+                "file": "M_idle.fbx",
+                "mtime": 1765464420.774699
+            },
+            "walk": {
+                "file": "M_walk.fbx",
+                "mtime": 1765463335.128953
+            },
+            "run": {
+                "file": "M_run.fbx",
+                "mtime": 1765463030.3429487
+            },
+            "jump_up": {
+                "file": "M_jump_up.fbx",
+                "mtime": 1765464631.2106607
+            },
+            "falling_idle": {
+                "file": "M_falling_idle.fbx",
+                "mtime": 1765464658.6082702
+            },
+            "landing": {
+                "file": "M_falling_to_idle.fbx",
+                "mtime": 1765464696.045465
+            },
+            "walk_backwards": {
+                "file": "M_walk_backwards.fbx",
+                "mtime": 1765463397.1209168
+            },
+            "strafe_left": {
+                "file": "M_strafe_left.fbx",
+                "mtime": 1765464749.055851
+            },
+            "strafe_right": {
+                "file": "M_strafe_right.fbx",
+                "mtime": 1765464774.1960833
+            },
+            "glide": {
+                "file": "M_glide.fbx",
+                "mtime": 1765464854.7610402
+            },
+            "cast": {
+                "file": "M_cast.fbx",
+                "mtime": 1765463564.904601
+            }
+        }
+    },
+    "marco": {
+        "build_date": "2025-12-11 16:54:50",
+        "source_file": "marco.fbx",
+        "source_mtime": 1765467896.0758092,
+        "config": {
+            "gender": "M",
+            "extra_arm_angle": 7.0
+        },
+        "animations": {
+            "idle": {
+                "file": "M_idle.fbx",
+                "mtime": 1765464420.774699
+            },
+            "walk": {
+                "file": "M_walk.fbx",
+                "mtime": 1765463335.128953
+            },
+            "run": {
+                "file": "M_run.fbx",
+                "mtime": 1765463030.3429487
+            },
+            "jump_up": {
+                "file": "M_jump_up.fbx",
+                "mtime": 1765464631.2106607
+            },
+            "falling_idle": {
+                "file": "M_falling_idle.fbx",
+                "mtime": 1765464658.6082702
+            },
+            "landing": {
+                "file": "M_falling_to_idle.fbx",
+                "mtime": 1765464696.045465
+            },
+            "walk_backwards": {
+                "file": "M_walk_backwards.fbx",
+                "mtime": 1765463397.1209168
+            },
+            "strafe_left": {
+                "file": "M_strafe_left.fbx",
+                "mtime": 1765464749.055851
+            },
+            "strafe_right": {
+                "file": "M_strafe_right.fbx",
+                "mtime": 1765464774.1960833
+            },
+            "glide": {
+                "file": "M_glide.fbx",
+                "mtime": 1765464854.7610402
+            },
+            "cast": {
+                "file": "M_cast.fbx",
+                "mtime": 1765463564.904601
+            }
+        }
+    }
+}
