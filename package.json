@@ -1,0 +1,17 @@
+{
+  "name": "leibgame-assets",
+  "version": "1.0.0",
+  "type": "module",
+  "description": "Asset pipeline",
+  "scripts": {
+    "optimize": "node scripts/optimize-assets.js"
+  },
+  "dependencies": {
+    "@gltf-transform/core": "^4.2.1",
+    "@gltf-transform/extensions": "^4.2.1",
+    "@gltf-transform/functions": "^4.2.1",
+    "draco3d": "^1.5.7",
+    "meshoptimizer": "^1.0.0",
+    "sharp": "^0.33.2"
+  }
+}
